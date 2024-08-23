@@ -2,7 +2,7 @@
 
 ## Goal
 
-### <a href ="https://www.kaggle.com/competitions/playground-series-s4e7">Binary-Classification-of-Insurance-Cross-Selling </a> **Top 5%**
+### <a href ="https://www.kaggle.com/competitions/playground-series-s4e7">Binary-Classification-of-Insurance-Cross-Selling </a> **Top 20%**
 
 The objective of this competition is to predict which customers respond positively to an automobile insurance offer.
 
