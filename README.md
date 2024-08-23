@@ -77,7 +77,7 @@ The competition organizers reserve the right to update the contest timeline if t
 
 ### Team Project Report
 
-<a href="https://www.notion.so/Binary-Classification-of-Insurance-Cross-Selling-b4519f9f691045dfb3d77131adaf4567" style="margin-right: 10px;">
+<a href="https://i-am-jen.notion.site/Binary-Classification-of-Insurance-Cross-Selling-caf0beabac5b4ed08826c5570dc92f66" style="margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/baaa10f4-56b7-4b1d-8740-ec61aa433e13" width="80" height="80" alt="Portfolio"></a>
 
 > This is the Team Project Report, Click the icon to move it.
