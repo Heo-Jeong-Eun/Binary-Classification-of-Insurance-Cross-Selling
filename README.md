@@ -28,7 +28,7 @@ K-Fold 교차 검증, Hyperparameter Tuning 등 여러 기법을 사용한 Model
 
 ### **Dataset**
 
-![스크린샷_2024-08-15_오후_5 19 32](https://github.com/user-attachments/assets/523b5a6f-04c4-4571-bd91-ec8578413ccf)
+<img width="600" height="400" src="https://github.com/user-attachments/assets/523b5a6f-04c4-4571-bd91-ec8578413ccf">
 
 ### **Evaluation**
 
@@ -72,7 +72,7 @@ The competition organizers reserve the right to update the contest timeline if t
 ### Kaggle Score
 **<a href ="https://www.kaggle.com/competitions/playground-series-s4e7">Binary-Classification-of-Insurance-Cross-Selling </a> Top 9%**
 
-<img width="545" alt="스크린샷_2024-08-01_오전_11 46 45" src="https://github.com/user-attachments/assets/6380af07-7cab-4145-89e8-16cd2d8f62f7">
+<img width="600" alt="스크린샷_2024-08-01_오전_11 46 45" src="https://github.com/user-attachments/assets/6380af07-7cab-4145-89e8-16cd2d8f62f7">
 
 ### Team Project Report
 
